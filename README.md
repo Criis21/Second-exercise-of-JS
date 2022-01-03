@@ -34,7 +34,7 @@
    - You must create an algorithm using functional programming
    - You must create another algorithm using declarative programming (filter, split, reduce or any of them that manipulate arrays)
 
-## :robot_face:Instructions for use
+## :robot_face: Instructions for use
 
 1. Make sure you are located in the project directory (scripts).
 2. Run node index.js in terminal.
